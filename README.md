@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jachym</h1>
-<h3 align="center">IT student from Czechia, GO programmer</h3>
+<h3 align="center">IT student from Czechia and GO programmer</h3>
 
 - Fun fact of the day: **Alice layout is the best**
 
