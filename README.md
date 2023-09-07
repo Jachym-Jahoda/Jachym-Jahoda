@@ -12,9 +12,9 @@
 
 <div align="center">
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jachym-Jahoda&hide=stars&count_private=true&show_icons=true&theme=dracula&border_radius=20" alt="Jachym-Jahoda" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jachym-Jahoda&hide=stars&count_private=true&hide=pr&show_icons=true&theme=dracula&border_radius=20" alt="Jachym-Jahoda" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jachym-Jahoda&theme=dracula&" alt="Jachym-Jahoda" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jachym-Jahoda&theme=dracula&border_radius=20" alt="Jachym-Jahoda" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jachym-Jahoda&layout=compact&count_private=ture&show_icons=true&theme=dracula&border_radius=20" alt="jachym-jahoda" /></p>
 
