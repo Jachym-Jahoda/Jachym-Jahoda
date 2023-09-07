@@ -10,4 +10,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jachym-Jahoda&" alt="Jachym-Jahoda" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jachym-Jahoda&show_icons=true&locale=en&layout=compact" alt="jachym-jahoda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jachym-Jahoda&layout=compact&count_private=ture&show_icons=true&theme=algolia&border_radius=20" alt="jachym-jahoda" /></p>
