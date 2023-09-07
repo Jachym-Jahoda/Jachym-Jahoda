@@ -9,3 +9,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jachym-Jahoda&show_icons=true&locale=en" alt="Jachym-Jahoda" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jachym-Jahoda&" alt="Jachym-Jahoda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jachym-Jahoda&" alt="Jachym-Jahoda" /></p>
