@@ -1,4 +1,4 @@
-<h1 align="center">Jachym</h1>
+<h1 align="center">I write code sometimes.</h1>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
