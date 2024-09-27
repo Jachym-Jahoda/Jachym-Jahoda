@@ -20,7 +20,7 @@
   </a> 
 </p>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jachym-Jahoda&theme=graywhite&border_radius=20&" alt="jachym-jahoda" /><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Jachym-Jahoda&hide=stars&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=graywhite&border_radius=20" alt="Jachym-Jahoda" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jachym-Jahoda&layout=compact&count_private=true&show_icons=true&theme=graywhite&border_radius=20" alt="jachym-jahoda" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jachym-Jahoda&theme=graywhite&border_radius=20&card_width=500" alt="jachym-jahoda" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Jachym-Jahoda&hide=stars&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=graywhite&border_radius=20&card_width=500" alt="Jachym-Jahoda" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jachym-Jahoda&layout=compact&count_private=true&show_icons=true&theme=graywhite&border_radius=20&card_width=500" alt="jachym-jahoda" /><br>
 </div>
