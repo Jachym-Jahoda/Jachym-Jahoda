@@ -5,6 +5,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jachym-Jahoda&theme=dark&hide_border=false&include_all_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jachym-Jahoda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jachym-Jahoda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
