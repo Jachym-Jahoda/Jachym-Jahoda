@@ -6,6 +6,10 @@ Feature voting not prioritized just by votes.
 ### [justRead.app](https://justread.app)/[App Store](https://apps.apple.com/app/id6757948605)
 One reader to rule them all on iPhone and iPad.
 
+### [Valtela.cz](https://valtela.cz)
+One card for every review site, not one card each. Google and Firmy.cz
+now, more coming, plus a nightly watch on the profile.
+
 ## What I work with:
  
 Go for backend work. Preferred DB is Postgres. Frontend done in vanilla HTML + CSS + JS. Swift for iOS. Docker for deploys. Cloudflare in front. Any Linux server, from AWS to Hetzner. Stripe, Paddle, or any processor with a decent API.
